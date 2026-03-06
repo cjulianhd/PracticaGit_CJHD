@@ -12,6 +12,7 @@ public class PracticaGIT_CJHD {
 
     public static void main(String[] args) {
         System.out.println("--- Sistema de gestion de alumnos ---");
+        System.out.println("Bienvenido, usuario de estudiante.");
         
     }
 }
