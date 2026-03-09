@@ -15,6 +15,7 @@ public class PracticaGIT_CJHD {
     public static void main(String[] args) {
         System.out.println("--- Sistema de gestion de alumnos ---");
         System.out.println("Bienvenido, usuario de estudiante.");
+     
      {   Scanner cin = new Scanner(System.in);// declaracion para la variable para la lectura de los datos de entrada 
      
      // declarar variable 
