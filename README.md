@@ -1,0 +1,1 @@
+Se realizo la practica del repositorio, agregando dos archivos a la rama principal, los cuales coresponden a aplicacion de estructuras condicionales, asi mismo se creo rama llamada respaldo donde se anexo los archivos para su posterior modificacion 
